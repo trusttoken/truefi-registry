@@ -1,0 +1,27 @@
+{
+  "name": "TrustToken Test",
+  "address": "0x83C1B27276108c0F68c52c2319beEd4646061A1F",
+  "website": "https://truefi.io/",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0x83C1B27276108c0F68c52c2319beEd4646061A1F/logo.svg",
+  "explorer": "https://etherscan.io/address/0x83C1B27276108c0F68c52c2319beEd4646061A1F",
+  "status": "active",
+  "github": "https://github.com/trusttoken",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/TrustToken",
+      "handle": "TrustToken"
+    },
+    {
+      "name": "Medium",
+      "url": "https://blog.trusttoken.com/",
+      "handle": "TrustToken"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/3tMyMqyqDj",
+      "handle": ""
+    }
+  ]
+}
