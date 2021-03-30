@@ -7,21 +7,18 @@
   "explorer": "https://etherscan.io/address/0x83C1B27276108c0F68c52c2319beEd4646061A1F",
   "status": "active",
   "github": "https://github.com/trusttoken",
-  "socials": [
-    {
-      "name": "Twitter",
+  "socials": {
+    "twitter" : {
       "url": "https://twitter.com/TrustToken",
       "handle": "TrustToken"
     },
-    {
-      "name": "Medium",
+    "medium": {
       "url": "https://blog.trusttoken.com/",
       "handle": "TrustToken"
     },
-    {
-      "name": "Discord",
+    "discord": {
       "url": "https://discord.com/invite/3tMyMqyqDj",
       "handle": ""
     }
-  ]
+  }
 }
