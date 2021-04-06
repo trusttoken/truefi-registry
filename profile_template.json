@@ -1,0 +1,37 @@
+{
+  "name": "TrueFi Borrower",
+  "address": "0x0",
+  "website": "https://truefi.io",
+  "description": "Freeing money to create more value",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/truefi.svg",
+  "explorer": "https://etherscan.io",
+  "status": "active",
+  "github": "https://github.com",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com",
+      "handle": "twUser"
+    },
+    "medium": {
+      "url": "https://medium.com",
+      "handle": "medUser"
+    },
+    "discord": {
+      "url": "https://discord.com",
+      "handle": "dcUser"
+    },
+    "telegram": {
+      "url": "https://telegram.org/",
+      "handle": "tgUser"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/",
+      "handle": "lnUser"
+    },
+    ,
+    "youtube": {
+      "url": "https://youtube.com",
+      "handle": "ytUser"
+    }
+  }
+}
