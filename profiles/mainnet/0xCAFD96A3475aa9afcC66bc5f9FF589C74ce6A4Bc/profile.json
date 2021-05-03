@@ -1,0 +1,21 @@
+{
+  "name": "Invictus Capital",
+  "address": "0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc",
+  "website": "https://invictuscapital.com/en/",
+  "description": "Invictus Capital offers alternative investment products for the modern investor. They believe investing should be convenient, transparent and low-cost.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/invictus-capital-borrow-request/82",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/ic_invictus",
+      "handle": "Invictus Capital"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/invictuscapital/",
+      "handle": "Invictus Capital"
+    }
+  }
+}
