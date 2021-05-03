@@ -1,0 +1,21 @@
+{
+  "name": "Amber Group",
+  "address": "0x3b7A0869D228AD5C154b922CD7a7CB1C46FE6eD4",
+  "website": "https://www.ambergroup.io/",
+  "description": "Amber Group is an integrated crypto financial services firm that offers 24/7 services ranging from market making to asset management and structured products.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0x3b7A0869D228AD5C154b922CD7a7CB1C46FE6eD4/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/amber-group-borrow-request/339",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/ambergroup_io",
+      "handle": "Amber Group"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/amberbtc/",
+      "handle": "Amber Group"
+    }
+  }
+}
