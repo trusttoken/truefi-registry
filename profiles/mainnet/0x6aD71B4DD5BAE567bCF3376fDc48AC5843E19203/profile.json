@@ -1,0 +1,21 @@
+{
+  "name": "Nibbio",
+  "address": "0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203",
+  "website": "https://nibbio.io/",
+  "description": "Nibbio is a proprietary trading firm and one of the larger market makers in the crypto space. They have been working on developing their algos and risk management systems since mid-2017 and have gone through basic triangular arbitrages to market neutral strategies on futures and swap.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/nibbio-borrow-request/205",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/nib_bio",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/kevin-l-48808291/",
+      "handle": ""
+    }
+  }
+}
