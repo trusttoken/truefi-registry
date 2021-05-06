@@ -1,0 +1,14 @@
+{
+  "name": "Dev 1",
+  "address": "0x5Fef8888a2D45475b955647d060c4eF14b065476",
+  "website": "",
+  "description": "👨🏻‍💻",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/ropsten/0x5Fef8888a2D45475b955647d060c4eF14b065476/logo.svg",
+  "explorer": "https://ropsten.etherscan.io/address/0x5Fef8888a2D45475b955647d060c4eF14b065476",
+  "status": "active",
+  "github": "",
+  "alternateAddresses": [
+    "0x709585aa3e0e649F33906Fc197a1B4538565a849"
+  ],
+  "socials": {}
+}

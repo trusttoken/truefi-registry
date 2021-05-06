@@ -7,5 +7,8 @@
   "explorer": "https://ropsten.etherscan.io/address/0x709585aa3e0e649F33906Fc197a1B4538565a849",
   "status": "active",
   "github": "",
+  "alternateAddresses": [
+    "0x5Fef8888a2D45475b955647d060c4eF14b065476"
+  ],
   "socials": {}
 }
