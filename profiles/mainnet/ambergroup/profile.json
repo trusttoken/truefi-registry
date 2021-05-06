@@ -1,9 +1,9 @@
 {
   "name": "Amber Group",
-  "address": "0xEF82e7E85061bd800c040D87D159F769a6b85264",
+  "addresses": [ "0xEF82e7E85061bd800c040D87D159F769a6b85264" ],
   "website": "https://www.ambergroup.io/",
   "description": "Amber Group is an integrated crypto financial services firm that offers 24/7 services ranging from market making to asset management and structured products.",
-  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0xEF82e7E85061bd800c040D87D159F769a6b85264/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/ambergroup/logo.png",
   "explorer": "https://etherscan.io/address/0xEF82e7E85061bd800c040D87D159F769a6b85264/",
   "status": "active",
   "github": "",

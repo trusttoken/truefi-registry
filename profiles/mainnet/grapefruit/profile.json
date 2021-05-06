@@ -1,9 +1,9 @@
 {
   "name": "Grapefruit Trading",
-  "address": "0x9ba1014bd2e50f4fb601ca178416e76aca8d2810",
+  "addresses": [ "0x9ba1014bd2e50f4fb601ca178416e76aca8d2810" ],
   "website": "https://gfru.it/",
   "description": "Grapefruit Trading specializes in providing liquidity in cryptos. They are a subsidiary of 4170 Trading",
-  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0x9ba1014bd2e50f4fb601ca178416e76aca8d2810/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/grapefruit/logo.png",
   "explorer": "https://etherscan.io/address/0x9ba1014bd2e50f4fb601ca178416e76aca8d2810/",
   "status": "active",
   "github": "",

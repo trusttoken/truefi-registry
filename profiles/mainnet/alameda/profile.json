@@ -1,9 +1,9 @@
 {
   "name": "Alameda Research Ltd.",
-  "address": "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C",
+  "addresses": [ "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C" ],
   "website": "https://www.alameda-research.com/",
   "description": "Alameda Research is a quantitative cryptocurrency trading firm and liquidity provider.",
-  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/alameda/logo.png",
   "explorer": "https://etherscan.io/address/0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C/",
   "status": "active",
   "github": "",

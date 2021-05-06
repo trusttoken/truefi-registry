@@ -1,6 +1,6 @@
 {
   "name": "Poloniex",
-  "address": "0x2bf792Ffe8803585F74E06907900c2dc2c29aDcb",
+  "addresses": [ "0x2bf792Ffe8803585F74E06907900c2dc2c29aDcb" ],
   "website": "https://poloniex.com/",
   "description": "Poloniex is one of the world's largest cryptocurrency exchange.",
   "logoURI": "",
