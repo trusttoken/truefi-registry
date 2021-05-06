@@ -1,11 +1,12 @@
 {
-  "0x83C1B27276108c0F68c52c2319beEd4646061A1F": "TrustToken Test",
-  "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C": "Alameda Research Ltd.",
-  "0xEF82e7E85061bd800c040D87D159F769a6b85264": "Amber Group",
-  "0xD5DeE8195AE62bC011A89f1959A7A375cc0DaF38": "Bastion Trading",
-  "0x5Ccb370b256030A3FF042bf7e3E1ec7527E4D713": "Folkvang",
-  "0x9ba1014bd2e50f4fb601ca178416e76aca8d2810": "Grapefruit Trading",
-  "0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc": "Invictus Capital",
-  "0xC8D328b21F476a4b6e0681F6e4e41693A220347d": "Multicoin Capital",
-  "0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203": "Nibbio"
+  "0x83C1B27276108c0F68c52c2319beEd4646061A1F": { "id": "trusttoken", "name": "TrustToken Test" },
+  "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C": { "id": "alameda", "name": "Alameda Research Ltd." },
+  "0xEF82e7E85061bd800c040D87D159F769a6b85264": { "id": "ambergroup", "name": "Amber Group" },
+  "0xD5DeE8195AE62bC011A89f1959A7A375cc0DaF38": { "id": "bastion", "name": "Bastion Trading" },
+  "0x5Ccb370b256030A3FF042bf7e3E1ec7527E4D713": { "id": "folkvang", "name": "Folkvang" },
+  "0x728B77751A7b1Ae29A94901695f3Dd8add37D086": { "id": "folkvang", "name": "Folkvang" },
+  "0x9ba1014bd2e50f4fb601ca178416e76aca8d2810": { "id": "grapefruit", "name": "Grapefruit Trading" },
+  "0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc": { "id": "invictus", "name": "Invictus Capital" },
+  "0xC8D328b21F476a4b6e0681F6e4e41693A220347d": { "id": "multicoin", "name": "Multicoin Capital" },
+  "0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203": { "id": "nibbio", "name": "Nibbio" }
 }
