@@ -1,0 +1,21 @@
+{
+  "name": "Poloniex",
+  "address": "0x2bf792Ffe8803585F74E06907900c2dc2c29aDcb",
+  "website": "https://poloniex.com/",
+  "description": "Poloniex is one of the world's largest cryptocurrency exchange.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0x2bf792Ffe8803585F74E06907900c2dc2c29aDcb/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/poloniex-borrow-request/268",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/Poloniex",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/poloniex1/",
+      "handle": ""
+    }
+  }
+}
