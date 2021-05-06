@@ -3,7 +3,7 @@
   "address": "0x5Ccb370b256030A3FF042bf7e3E1ec7527E4D713",
   "website": "https://folkvang.io/",
   "description": "A quant trading firm and liquidity provider active in all leading crypto markets.",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0x5Ccb370b256030A3FF042bf7e3E1ec7527E4D713/logo.png",
   "explorer": "https://etherscan.io/address/0x5Ccb370b256030A3FF042bf7e3E1ec7527E4D713/",
   "status": "active",
   "github": "",

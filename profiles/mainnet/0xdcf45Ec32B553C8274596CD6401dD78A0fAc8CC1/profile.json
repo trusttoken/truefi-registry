@@ -3,7 +3,7 @@
   "address": "0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1",
   "website": "https://www.wintermute.com/",
   "description": "Wintermute is a leading global market maker for digital assets. They provide liquidity algorithmically on most vetted crypto exchanges and via OTC desks.",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1/logo.png",
   "explorer": "https://etherscan.io/address/0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1/",
   "status": "active",
   "github": "",
