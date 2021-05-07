@@ -1,0 +1,21 @@
+{
+  "name": "Multicoin Capital",
+  "addresses": [ "0xC8D328b21F476a4b6e0681F6e4e41693A220347d" ],
+  "website": "https://multicoin.capital/",
+  "description": "Multicoin Capital is a thesis-driven investment firm that invests in cryptocurrencies, tokens, and blockchain companies",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/multicoin/logo.png",
+  "explorer": "https://etherscan.io/address/0xC8D328b21F476a4b6e0681F6e4e41693A220347d/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/multicoin-capital-borrow-request/131",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/multicoincap",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/multicoincapital/about/",
+      "handle": ""
+    }
+  }
+}

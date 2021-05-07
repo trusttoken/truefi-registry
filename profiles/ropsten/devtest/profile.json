@@ -1,0 +1,11 @@
+{
+  "name": "Dev 1",
+  "addresses": [ "0x709585aa3e0e649F33906Fc197a1B4538565a849" ],
+  "website": "",
+  "description": "👨🏻‍💻",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/ropsten/devtest/logo.svg",
+  "explorer": "https://ropsten.etherscan.io/address/0x709585aa3e0e649F33906Fc197a1B4538565a849",
+  "status": "active",
+  "github": "",
+  "socials": {}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TrueFi Dev",
+  "addresses": [ "0x03bD39a306DfE74937033d50eB278623D8b60804" ],
+  "website": "https://truefi.io/",
+  "description": "Freeing money to create more value 💸",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/ropsten/truefi/logo.svg",
+  "explorer": "https://ropsten.etherscan.io/address/0x03bD39a306DfE74937033d50eB278623D8b60804",
+  "status": "active",
+  "github": "https://github.com/trusttoken",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/TrustToken",
+      "handle": "TrustToken"
+    },
+    "medium": {
+      "url": "https://blog.trusttoken.com/",
+      "handle": "TrustToken"
+    },
+    "discord": {
+      "url": "https://discord.com/invite/3tMyMqyqDj",
+      "handle": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Wintermute Trading",
+  "addresses": [ "0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1" ],
+  "website": "https://www.wintermute.com/",
+  "description": "Wintermute is a leading global market maker for digital assets. They provide liquidity algorithmically on most vetted crypto exchanges and via OTC desks.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/wintermute/logo.png",
+  "explorer": "https://etherscan.io/address/0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/wintermute-trading-borrow-request/151",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/wintermute_t",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/wintermute-trading/",
+      "handle": ""
+    }
+  }
+}
