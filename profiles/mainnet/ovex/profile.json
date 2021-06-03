@@ -1,0 +1,21 @@
+{
+  "name": "Ovex",
+  "addresses": [ "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C" ],
+  "website": "https://www.ovex.io/",
+  "description": "Cape Town based South African digital asset exchange and OTC desk. OVEX brings deep liquidity to African markets.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/ovex/logo.png",
+  "explorer": "https://etherscan.io/address/0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/ovex-borrow-request/403",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/OVEXIO",
+      "handle": "OVEXIO"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/ovex-exchange/",
+      "handle": "ovex-exchange"
+    }
+  }
+}
