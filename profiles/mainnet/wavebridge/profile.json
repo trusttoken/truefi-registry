@@ -1,0 +1,21 @@
+{
+  "name": "Wavebridge",
+  "addresses": [ "0x186cf5714316F47BC59e30a850615A3f938d7D79" ],
+  "website": "https://wavebridgelabs.com/en",
+  "description": "Wavebridge is a Korean based FinTech company focused on providing one-stop trading solutions for users who are interested in algorithmic trading within the cryptocurrency markets.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/wavebridge/logo.png",
+  "explorer": "https://etherscan.io/address/0x186cf5714316F47BC59e30a850615A3f938d7D79/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/revised-wavebridge-borrow-request/601",
+  "socials": {
+    "twitter" : {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://kr.linkedin.com/in/jongwook-oh-45564a74",
+      "handle": ""
+    }
+  }
+}
