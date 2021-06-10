@@ -1,0 +1,21 @@
+{
+  "name": "Blockwater Technologies",
+  "addresses": [ "0xf3537ac805e1ce18AA9F61A4b1DCD04F10a007E9" ],
+  "website": "https://blockwater.com/",
+  "description": "Blockwater is the largest and most profitable crypto trading company in Korea, building and deploying top-notch trading strategies through our quantitative, statistical analysis of the cryptocurrency market.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/blockwater/logo.png",
+  "explorer": "https://etherscan.io/address/0xf3537ac805e1ce18AA9F61A4b1DCD04F10a007E9/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/blockwater-borrow-request/608",
+  "socials": {
+    "twitter" : {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url":"",
+      "handle":"":
+    }
+  }
+}
