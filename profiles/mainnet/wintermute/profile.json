@@ -1,10 +1,10 @@
 {
   "name": "Wintermute Trading",
-  "addresses": [ "0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1" ],
+  "addresses": [ "0xA1614eC01d13E04522ED0b085C7a178ED9E99bc9", "0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1" ],
   "website": "https://www.wintermute.com/",
   "description": "Wintermute is a leading global market maker for digital assets. They provide liquidity algorithmically on most vetted crypto exchanges and via OTC desks.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/wintermute/logo.png",
-  "explorer": "https://etherscan.io/address/0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1/",
+  "explorer": "https://etherscan.io/address/0xA1614eC01d13E04522ED0b085C7a178ED9E99bc9/",
   "status": "active",
   "github": "",
   "forumPost": "https://forum.truefi.io/t/wintermute-trading-borrow-request/151",
