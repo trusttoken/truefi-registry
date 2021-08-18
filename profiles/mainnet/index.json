@@ -16,6 +16,7 @@
   "0xC8D328b21F476a4b6e0681F6e4e41693A220347d": { "id": "multicoin", "name": "Multicoin Capital" },
   "0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203": { "id": "nibbio", "name": "Nibbio" },
   "0x29FCE383c67D00954aC9367f6d3C8215989244eE": { "id": "ovex", "name": "Ovex" },
+  "0xa8c42bBb0648511cC9004fbDCf0FA365088F862B": { "id": "plutus", "name": "Plutus Lending" },
   "0x2bf792Ffe8803585F74E06907900c2dc2c29aDcb": { "id": "poloniex", "name": "Poloniex" },
   "0x2ae5C897107AcC1d98a4e245D93A20A8b5a83428": { "id": "subspace", "name": "Subspace Capital" },
   "0x186cf5714316F47BC59e30a850615A3f938d7D79": { "id": "wavebridge", "name": "Wavebridge" },
