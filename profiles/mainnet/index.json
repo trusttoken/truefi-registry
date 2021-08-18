@@ -14,7 +14,7 @@
   "0xBc8e650Bac6A7590F19A958e0F57ac97261677f0": { "id": "kbit", "name": "Kbit" },
   "0x931057B79FF539DB5A2813BCb3a3ca5B5242E82C": { "id": "mgnr", "name": "mgnr.io" },
   "0xC8D328b21F476a4b6e0681F6e4e41693A220347d": { "id": "multicoin", "name": "Multicoin Capital" },
-  "0xa8c42bBb0648511cC9004fbDCf0FA365088F862B": { "id": "plutus", "name": "Nascent" },
+  "0xa8c42bBb0648511cC9004fbDCf0FA365088F862B": { "id": "nascent", "name": "Nascent" },
   "0x6aD71B4DD5BAE567bCF3376fDc48AC5843E19203": { "id": "nibbio", "name": "Nibbio" },
   "0x29FCE383c67D00954aC9367f6d3C8215989244eE": { "id": "ovex", "name": "Ovex" },
   "0x6C004dBA3f1E83dD060b05b9C888ae14cc027231": { "id": "plutusLending", "name": "Plutus Lending" },
