@@ -1,0 +1,21 @@
+{
+  "name": "Plutus Lending",
+  "addresses": [ "0x6C004dBA3f1E83dD060b05b9C888ae14cc027231" ],
+  "website": "",
+  "description": "",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0x6C004dBA3f1E83dD060b05b9C888ae14cc027231/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "twitter" : {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
