@@ -1,0 +1,21 @@
+{
+  "name": "GSR Markets Ltd.",
+  "addresses": [ "0xAaaB1953b08f8DEE6B40A0b881916ac92081546f" ],
+  "website": "https://www.gsr.io/",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/gsrMarkets/logo.png",
+  "explorer": "https://etherscan.io/address/0x6C004dBA3f1E83dD060b05b9C888ae14cc027231/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/gsr-borrow-request/752",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/GSR_io",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/gsr-markets/",
+      "handle": ""
+    }
+  }
+}
